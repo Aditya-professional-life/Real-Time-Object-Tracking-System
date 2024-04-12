@@ -26,7 +26,7 @@ This project implements a real-time object tracking system using Python and Open
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/real-time-object-tracking.git
+[git clone https://github.com/your-username/real-time-object-tracking.git](https://github.com/Aditya-professional-life/Real-Time-Object-Tracking-System.git)
 ```
 
 2. Install dependencies:
